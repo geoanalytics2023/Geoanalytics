@@ -1935,8 +1935,6 @@ input, select, textarea {
 
 	#logo {
 		display: inline-block;
-		vertical-align: middle;
-/* 			float: left; */
 	}
 
 		#logo h1 {
@@ -1950,10 +1948,6 @@ input, select, textarea {
 			letter-spacing: 0.05em;
 			display: inline-block;
 			vertical-align: middle;
-/* 			float: left; */
-/* 			display: flex; */
-/*   			align-items: center */
-			
 		}
 
 		#logo span {
@@ -1962,8 +1956,7 @@ input, select, textarea {
 			letter-spacing: 0.025em;
 			font-size: 0.9em;
 			vertical-align: middle;
-			margin: 0 0 0 1.25em;
-			
+			margin: 0 0 0 1.25em;	
 		}
 
 /* Nav */
